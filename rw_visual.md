@@ -31,4 +31,4 @@
       if keep_walking == 'n':
          break
          
-![image](https://github.com/PythonandLee/Python_Matplotlib/blob/master/random_walk2.jpg)
+![image](https://github.com/PythonandLee/Python_Matplotlib/blob/master/random2_walk.jpg)
