@@ -12,5 +12,6 @@
         keep_walking = input("Make another walk?(y/n): ")
         if keep_walking == 'n':
            break
-![image](https://github.com/PythonandLee/Python_Matplotlib/blob/master/random_walk.jpg)
 ˋˋˋ
+![image](https://github.com/PythonandLee/Python_Matplotlib/blob/master/random_walk.jpg)
+
