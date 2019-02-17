@@ -9,7 +9,7 @@
 
     plt.tick_params(axis='both', labelsize=14)
     plt.show()
-
+![image](https://github.com/PythonandLee/Python_Matplotlib/blob/master/test.png)
 
 
     import matplotlib.pyplot as plt
@@ -23,3 +23,4 @@
 
     plt.tick_params(axis='both', labelsize=14)
     plt.show()
+![image](https://github.com/PythonandLee/Python_Matplotlib/blob/master/test2.png)
