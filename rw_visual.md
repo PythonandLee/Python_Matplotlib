@@ -2,7 +2,7 @@
     from random_walk import RandomWalk
 
     while True:
-        plt.rcParams['figure.dpi'] = 100
+        plt.rcParams['figure.dpi'] = 200
         rw = RandomWalk()
         rw.fill_walk()
         plt.scatter(rw.x_values, rw.y_values, s=1)
