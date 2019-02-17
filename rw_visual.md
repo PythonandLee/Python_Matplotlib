@@ -1,4 +1,3 @@
-```py
     import matplotlib.pyplot as plt
     from random_walk import RandomWalk
 
@@ -12,6 +11,6 @@
         keep_walking = input("Make another walk?(y/n): ")
         if keep_walking == 'n':
            break
-ˋˋˋ
+
 ![image](https://github.com/PythonandLee/Python_Matplotlib/blob/master/random_walk.jpg)
 
