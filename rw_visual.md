@@ -1,3 +1,4 @@
+```py
     import matplotlib.pyplot as plt
     from random_walk import RandomWalk
 
@@ -12,3 +13,4 @@
         if keep_walking == 'n':
            break
 ![image](https://github.com/PythonandLee/Python_Matplotlib/blob/master/random_walk.jpg)
+ˋˋˋ
