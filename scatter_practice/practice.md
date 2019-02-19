@@ -50,7 +50,7 @@ plt.title("Square Number", fontsize=20)
 
 
 
-    Text(0.5, 1.0, 'Square Number')
+
 
 
 
@@ -75,7 +75,7 @@ plt.axis([0, 1100, 0, 1100000])
 
 
 
-    [0, 1100, 0, 1100000]
+
 
 
 
