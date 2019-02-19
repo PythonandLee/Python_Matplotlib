@@ -11,11 +11,13 @@ while True:
     point_numbers = list(range(rw.num_points))
     plt.scatter(rw.x_values, rw.y_values, edgecolor='none', 
                 c=point_numbers, s=5)
-    
+                
+    """mark the start and end spots"""
     plt.scatter(0, 0, c='green', edgecolor='none', s=50)
     plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', 
                    edgecolor='none', s=50)
     
+    """remove x and y axises labels"""
     plt.axes().get_xaxis().set_visible(False)
     plt.axes().get_yaxis().set_visible(False)
     plt.figure(dpi=100)
