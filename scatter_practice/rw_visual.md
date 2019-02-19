@@ -27,7 +27,7 @@ while True:
 ```
 
 
-![png](output_0_0.png)
+![png](https://github.com/PythonandLee/Python_Matplotlib/blob/master/scatter_practice/rw_output_1.png)
 
 
 
@@ -38,7 +38,7 @@ while True:
     
 
 
-![png](output_0_3.png)
+![png](https://github.com/PythonandLee/Python_Matplotlib/blob/master/scatter_practice/rw_output_2.png)
 
 
 
@@ -49,7 +49,7 @@ while True:
     
 
 
-![png](output_0_6.png)
+![png](https://github.com/PythonandLee/Python_Matplotlib/blob/master/scatter_practice/rw_output_3.png)
 
 
 
