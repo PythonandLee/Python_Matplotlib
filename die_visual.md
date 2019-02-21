@@ -34,7 +34,7 @@ hist.add('D6', frequencies)
 hist.render_to_file('die_visual.svg')
 ```
 
-    [157, 174, 185, 164, 163, 157]
+    [154, 158, 171, 178, 183, 156]
     
 ![image](https://github.com/PythonandLee/Python_Matplotlib/blob/master/die_visual2.svg)    
     
