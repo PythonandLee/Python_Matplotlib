@@ -34,7 +34,7 @@ fig.autofmt_xdate()
 
 plt.show()
 ```
-
+![image](https://github.com/PythonandLee/Python_Matplotlib/blob/master/weather/output_0_0.png)
 
 
 
