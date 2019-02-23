@@ -1,4 +1,4 @@
-
+```python
    
     import pygal
 
@@ -11,3 +11,4 @@
                          'gy', 'pe', 'py', 'sr', 'uy', 've'])
 
     wm.render_to_file('americas.svg')
+```
