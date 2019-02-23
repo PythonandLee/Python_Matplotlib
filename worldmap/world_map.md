@@ -12,3 +12,5 @@
 
     wm.render_to_file('americas.svg')
 ```
+![Alt text](./controllers_brief.svg)
+<img src="./controllers_brief.svg">
